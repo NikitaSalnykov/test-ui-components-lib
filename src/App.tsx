@@ -6,7 +6,7 @@ import {
   Radio,
   RadioGroup,
 } from "ui-component-library";
-// import "ui-component-library/dist/style.css";
+import "ui-component-library/dist/style.css";
 
 const App: React.FC = () => {
   const RadioGender: React.FC = () => {
