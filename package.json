@@ -6,13 +6,13 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
-    
+
   },
   "dependencies": {
     "clsx": "^2.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "ui-component-library": "github:NikitaSalnykov/ui-component-library"
+    "ui-component-library": "github:NikitaSalnykov/ui-component-library#22526c36e5f1a1c2b264f1242afb6b6433dacb36"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
